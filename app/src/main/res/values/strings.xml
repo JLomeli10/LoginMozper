@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Login Mozper</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_sign_in_short">Login</string>
+    <string name="welcome">"Bienvenido !"</string>
+    <string name="invalid_username">Nombre de usuario invalido!</string>
+    <string name="invalid_password">Contraseña no cumple con las caracteristicas.</string>
+    <string name="login_failed">"Error al autenticar"</string>
+    <string name="title_activity_home">Empleados</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Lista Empleados</string>
+    <string name="second_fragment_label">Detalle Empleados</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="logout">Cerrar sesión</string>
+
+    <string name="list_information">Cargando Lista...</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="error_get_employee">Error al consultar detalle</string>
+    <string name="error_get_employees">Error al consultar lista</string>
+</resources>
